@@ -1,10 +1,10 @@
-/** @type {import("snowpack").SnowpackUserConfig } */
+/** @type {import("snowpack").SnowpackUserConfig }*/
 module.exports = {
   mount: {
     public: '/',
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://dannyjacome30.github.io/foxyPage',
   },
 }
