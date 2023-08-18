@@ -1,4 +1,4 @@
-/** @type {import("snowpack").SnowpackUserConfig } */
+/** @type {import("snowpack").SnowpackUserConfig }*/
 module.exports = {
   mount: {
     public: '/',
