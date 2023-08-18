@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://dannyjacome30.github.io/foxyPage/',
+    baseUrl: 'https://dannyjacome30.github.io/foxyPage',
   },
 }
